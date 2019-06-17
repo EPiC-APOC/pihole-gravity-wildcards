@@ -1,1 +1,1 @@
-45 5 * * * root PATH="$PATH:/usr/local/bin/" generateGravityWildcards.sh
+55 4 * * * root PATH="$PATH:/usr/local/bin/" generateGravityWildcards.sh

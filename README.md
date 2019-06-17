@@ -61,9 +61,9 @@ Enter `generateGravityWildcards.sh` in Terminal
 
 
 #### Create a Cron file (running on a schedule)
-This example will run the script every morning at 03:30
+This example will run the script every morning at 04:55
 1. `sudo nano /etc/cron.d/generateGravityWildcards`
-2. Enter: `30 3   * * *   root    PATH="$PATH:/usr/local/bin/" generateGravityWildcards.sh`
+2. Enter: `55 4   * * *   root    PATH="$PATH:/usr/local/bin/" generateGravityWildcards.sh`
 3. Press `CTRL` + `X`
 4. Press `Y`
 5. Press `Enter`
