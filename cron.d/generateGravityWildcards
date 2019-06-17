@@ -1,0 +1,1 @@
+45 5 * * * root PATH="$PATH:/usr/local/bin/" generateGravityWildcards.sh
